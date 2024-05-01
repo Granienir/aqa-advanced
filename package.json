@@ -2,7 +2,7 @@
   "name": "secondtask",
   "version": "1.0.0",
   "description": "home work for 3 lesson",
-  "main": "branching-switch.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
