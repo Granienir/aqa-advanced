@@ -1,0 +1,22 @@
+{
+  "name": "secondtask",
+  "version": "1.0.0",
+  "description": "home work for 3 lesson",
+  "main": "branching-switch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Granienir/aqa-advanced.git"
+  },
+  "keywords": [
+    "homework"
+  ],
+  "author": "Illia Hnitetskyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Granienir/aqa-advanced/issues"
+  },
+  "homepage": "https://github.com/Granienir/aqa-advanced#readme"
+}
