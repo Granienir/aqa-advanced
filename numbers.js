@@ -22,3 +22,10 @@ console.log(2 * 5);
 console.log(2 % 5);
 
 console.log(Math.E);
+
+const COLOR_RED = "#F00";
+const COLOR_ORANGE = "#FF7F00";
+
+// ...коли потрібно вибрати колір
+let color = COLOR_ORANGE;
+console.log(color); // #FF7F00
